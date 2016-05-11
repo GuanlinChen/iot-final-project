@@ -8,11 +8,11 @@ import sys
 import socket
 serverIP = sys.argv[1]
 port = sys.argv[2]
-ACCOUNT_ID = '268305115229'
-IDENTITY_POOL_ID = 'us-east-1:949cc2b6-8a51-4ec3-bbc2-f1d76f4cd489'
+ACCOUNT_ID = ' '
+IDENTITY_POOL_ID = ' '
 
 
-ROLE_ARN = 'arn:aws:iam::268305115229:role/Cognito_EdisonAppUnauth_Role'
+ROLE_ARN = ' '
 
 
 # Use cognito to get an identity.

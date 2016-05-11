@@ -3,8 +3,8 @@ import os
 import time
 
 
-AWS_ACCESS_KEY_ID = "AKIAINLLDVTP6TDFWMOQ"
-AWS_SECRET_ACCESS_KEY = "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"
+AWS_ACCESS_KEY_ID = " "
+AWS_SECRET_ACCESS_KEY = " "
 REGION_NAME = "us-east-1"
 TABLE_NAME = "xdk_table"
 FILENAME = "yxz5_5.csv"

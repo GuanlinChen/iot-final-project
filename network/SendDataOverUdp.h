@@ -27,7 +27,7 @@ typedef enum returnTypes_e
 //#warning Please provide WLAN related configurations, with valid SSID & WPA key and server ip address where packets are to be sent in the below macros.
 /** Network configurations */
 #define WLAN_CONNECT_WPA_SSID                "FiOS-N7SSP"         /**< Macros to define WPA/WPA2 network settings */
-#define WLAN_CONNECT_WPA_PASS                "wax6388cans3554paw"      /**< Macros to define WPA/WPA2 network settings */
+#define WLAN_CONNECT_WPA_PASS                " "      /**< Macros to define WPA/WPA2 network settings */
 #define BUFFER_SIZE        UINT8_C(4)
 /** IP addressed of server side socket.Should be in long format, E.g: 0xc0a82177 == 192.168.33.119 */
 #define SERVER_IP         UINT32_C(0xC0A801CC)
